@@ -1,0 +1,14 @@
+{
+    "N": 256,
+    "K": 37,
+    "ell": 16,
+    "min_num_errors": 100,
+    "test_batch_size": 10000,
+    "snr_range": [-5, -4, -3, -2, -1, 0],
+    "noise_type": "awgn",
+    "vv": 5,
+    "radar_prob": 0.01,
+    "radar_power": 5.0,
+    "gpu": 0,
+    "id": null
+}
